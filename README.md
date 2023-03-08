@@ -14,7 +14,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center"> BANGLADESH CYBER ARMY </h3>
+<h3 align="center"> TERMUX HACKER SHAMIM </h3>
  
 
 
